@@ -17,10 +17,10 @@ Traditional irrigation methods lead to:
 
 ![System Diagram](images/diagram1.png)
 
-✔️ Farmland is divided into multiple grids based on farmers' needs.
-✔️ Each grid has **sensors** to monitor key environmental and soil conditions (moisture, nutrients, etc.).
-✔️ Data is transmitted via **LoRa** technology to an online server, accessible via a **mobile application**.
-✔️ When sensors detect a need for irrigation, the system automatically activates **water flow** in specific grids.
+✔️ Farmland is divided into multiple grids based on farmers' needs.<br>
+✔️ Each grid has **sensors** to monitor key environmental and soil conditions (moisture, nutrients, etc.).<br>
+✔️ Data is transmitted via **LoRa** technology to an online server, accessible via a **mobile application**.<br>
+✔️ When sensors detect a need for irrigation, the system automatically activates **water flow** in specific grids.<br>
 ✔️ Prevents **over-irrigation** and **water wastage** while ensuring efficient resource management.
 
 ![System Diagram](images/diagram2.png)
